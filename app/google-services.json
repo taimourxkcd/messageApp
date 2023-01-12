@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330434348092",
+    "project_id": "messageapp-c55ba",
+    "storage_bucket": "messageapp-c55ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330434348092:android:cf80f4470b7e99bb5aef39",
+        "android_client_info": {
+          "package_name": "com.taimour.messageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330434348092-parlv9obd8vdd069a0fp7ghgdcvglg0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPyYnLg4inVBFerhPqEIbU7mpKHxT0cA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330434348092-parlv9obd8vdd069a0fp7ghgdcvglg0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
